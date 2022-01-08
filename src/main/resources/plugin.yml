@@ -1,0 +1,6 @@
+name: FastChunkPregenerator
+version: ${project.version}
+main: com.gestankbratwurst.fastchunkpregen.FastChunkPregenerator
+api-version: 1.17
+authors: [Gestankbratwurst]
+description: Chunk pregenerator.
